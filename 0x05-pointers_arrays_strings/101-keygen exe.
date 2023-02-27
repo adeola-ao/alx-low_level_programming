@@ -1,0 +1,2 @@
+gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-keygen
+julien@ubuntu:~/0x05$ ./101-crackme "`./101-keygen`"
