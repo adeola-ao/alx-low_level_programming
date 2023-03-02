@@ -7,7 +7,6 @@
  */
 
 void reverse_array(int *a, int n)
-
 {
 int *start_c, *end_c, c;
 int i;
@@ -22,7 +21,6 @@ end_c++;
   
 for (i = 0; i < n / 2; i++)
 {
-
 c = *end_c;
 *end_c = *start_c;
 *start_c = c;
@@ -30,5 +28,4 @@ c = *end_c;
 start_c++;
 end_c--;
 }
-
 }
