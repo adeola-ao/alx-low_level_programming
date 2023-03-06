@@ -7,7 +7,6 @@
 * @n:number of byte
 * Return: new s pointer
 */
-
 char *_memset(char *s, char b, unsigned int n)
 
 {
