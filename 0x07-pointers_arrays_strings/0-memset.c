@@ -2,7 +2,7 @@
 
 /**
 * _memset - function that fills memory with a constant byte
-* @s: pointer to fill 
+* @s: pointer to fill
 * @b: constant byte
 * @n:number of byte
 * Return: new s pointer
