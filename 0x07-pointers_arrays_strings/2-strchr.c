@@ -4,8 +4,8 @@
 *of the character c in the string s, or NULL if the
 *character is not found
 *
-*@s: targeted string
-*@c: targeted character
+*@s:targeted string
+*@c:targeted character
 *
 *Return: returns pointer to first occcurence of c
 */
